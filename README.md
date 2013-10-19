@@ -10,7 +10,6 @@ Cистемные требования:
 
 Python 3.3.x
 
-::
 
     pip install requests
     pip install beautifulsoup4
@@ -25,7 +24,6 @@ chmod a+x lk.py
 
 Результат:
 
-::
 
     Интернет 2-020-040XXXX
     Баланс: 150,00 руб
@@ -46,7 +44,6 @@ Cистемные требования:
 
 Python 3.3.x
 
-::
 
     pip install urllib
     pip install beautifulsoup4
@@ -61,7 +58,6 @@ chmod a+x pogoda.py
 
 Результат:
 
-::
 
     Прогноз погоды: Вологда
     
